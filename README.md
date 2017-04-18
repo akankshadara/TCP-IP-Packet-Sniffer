@@ -5,9 +5,9 @@ The aim of this application is to read packets that travel across various layers
 
 It will be used to capture and analyze the following protocols’ header information from the packets:
 
-Application Layer: HTTP, DNS\n
-Transport Layer: TCP, UDP\n
-Network Layer: IPv4, Ipv6\n
-Data Link Layer: ARP\n
+Application Layer: HTTP, DNS
+Transport Layer: TCP, UDP
+Network Layer: IPv4, IPv6
+Data Link Layer: ARP
 
 The packets captured will be analyzed to extract and display the header information along with other relevant parameters for the selected protocols. 
