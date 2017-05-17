@@ -14,7 +14,9 @@ Data Link Layer: ARP
 
 The packets captured will be analyzed to extract and display the header information along with other relevant parameters for the selected protocols. 
 
-Usage: Execute the following command on the command line:
+**Usage:** 
+
+Execute the following command on the command line:
 ```{r, engine='bash', count_lines}
 To compile: gcc sniffer.c
 
