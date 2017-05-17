@@ -1,0 +1,670 @@
+
+Packet number 1
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 54604
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 0
+   |-Response code              : 0
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 0
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 39396
+   |-Destination Port : 53
+   |-UDP Length       : 43
+   |-UDP Checksum     : 15808
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 47443
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 44182
+
+Ethernet Header:
+   -->Destination Address : 30-E3-7A-10-DD-D5 
+   |-Source Address      : 48-BF-6B-DF-21-D8 
+   |-Protocol            : 8 
+
+Packet number 2
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 6650
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 0
+   |-Response code              : 0
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 0
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 34148
+   |-Destination Port : 53
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 45566
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 35245
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 3
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 6650
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 0
+   |-Response code              : 0
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 0
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 34148
+   |-Destination Port : 53
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 45566
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 35245
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 4
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 6650
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 1
+   |-Response code              : 5
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 1
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 53
+   |-Destination Port : 34148
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 14192
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 1084
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 5
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 6650
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 1
+   |-Response code              : 5
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 1
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 53
+   |-Destination Port : 34148
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 14192
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 1084
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 6
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 54604
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 1
+   |-Response code              : 5
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 1
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 53
+   |-Destination Port : 39396
+   |-UDP Length       : 43
+   |-UDP Checksum     : 48442
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 13894
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 61347
+
+Ethernet Header:
+   -->Destination Address : 48-BF-6B-DF-21-D8 
+   |-Source Address      : 30-E3-7A-10-DD-D5 
+   |-Protocol            : 8 
+
+Packet number 7
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 20058
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 0
+   |-Response code              : 0
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 0
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 46146
+   |-Destination Port : 53
+   |-UDP Length       : 43
+   |-UDP Checksum     : 5609
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 55249
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 36376
+
+Ethernet Header:
+   -->Destination Address : 30-E3-7A-10-DD-D5 
+   |-Source Address      : 48-BF-6B-DF-21-D8 
+   |-Protocol            : 8 
+
+Packet number 8
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 24238
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 0
+   |-Response code              : 0
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 0
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 25561
+   |-Destination Port : 53
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 45567
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 35244
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 9
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 24238
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 0
+   |-Response code              : 0
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 0
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 25561
+   |-Destination Port : 53
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 45567
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 35244
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 10
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 24238
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 1
+   |-Response code              : 5
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 1
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 53
+   |-Destination Port : 25561
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 14193
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 1083
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 11
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 24238
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 1
+   |-Response code              : 5
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 1
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 53
+   |-Destination Port : 25561
+   |-UDP Length       : 43
+   |-UDP Checksum     : 65342
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 14193
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 1083
+
+Ethernet Header:
+   -->Destination Address : 00-00-00-00-00-00 
+   |-Source Address      : 00-00-00-00-00-00 
+   |-Protocol            : 8 
+
+Packet number 12
+Packet type: DNS
+
+DNS message
+
+DNS Header:
+   |-Identification Number      : 20058
+   |-Recursion Desired          : 1
+   |-Truncated Message          : 0
+   |-Authoritative Answer       : 0
+   |-Purpose of message         : 0
+   |-Query/Response Flag        : 1
+   |-Response code              : 5
+   |-Checking Disabled          : 0
+   |-Authenticated data         : 0
+   |-Recursion available        : 1
+   |-Number of question entries : 256
+   |-Number of answer entries   : 0
+   |-Number of authority entries: 0
+   |-Number of resource entries : 0
+
+
+
+UDP Header
+   |-Source Port      : 53
+   |-Destination Port : 46146
+   |-UDP Length       : 43
+   |-UDP Checksum     : 38243
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 63  Bytes(Size of Packet)
+   |-Identification    : 13895
+   |-TTL      : 64
+   |-Protocol : 17
+   |-Checksum : 61346
+
+Ethernet Header:
+   -->Destination Address : 48-BF-6B-DF-21-D8 
+   |-Source Address      : 30-E3-7A-10-DD-D5 
+   |-Protocol            : 8 
+
+Packet number 13
+Packet type: HTTP
+
+HTTP message
+.............3.)........
+
+TCP Header:
+   |-Source Port      : 51173
+   |-Destination Port : 80
+   |-Sequence Number    : 2836641336
+   |-Acknowledge Number : 0
+   |-Header Length      : 11 DWORDS or 44 BYTES
+   |-Urgent Flag          : 0
+   |-Acknowledgement Flag : 0
+   |-Push Flag            : 0
+   |-Reset Flag           : 0
+   |-Synchronise Flag     : 1
+   |-Finish Flag          : 0
+   |-Window         : 65535
+   |-Checksum       : 44408
+   |-Urgent Pointer : 0
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 64  Bytes(Size of Packet)
+   |-Identification    : 62322
+   |-TTL      : 64
+   |-Protocol : 6
+   |-Checksum : 43167
+
+Ethernet Header:
+   -->Destination Address : 30-E3-7A-10-DD-D5 
+   |-Source Address      : 48-BF-6B-DF-21-D8 
+   |-Protocol            : 8 
+
+Packet number 14
+Packet type: TCP
+
+TCP Header:
+   |-Source Port      : 51168
+   |-Destination Port : 443
+   |-Sequence Number    : 3910365137
+   |-Acknowledge Number : 0
+   |-Header Length      : 11 DWORDS or 44 BYTES
+   |-Urgent Flag          : 0
+   |-Acknowledgement Flag : 0
+   |-Push Flag            : 0
+   |-Reset Flag           : 0
+   |-Synchronise Flag     : 1
+   |-Finish Flag          : 0
+   |-Window         : 65535
+   |-Checksum       : 45689
+   |-Urgent Pointer : 0
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 64  Bytes(Size of Packet)
+   |-Identification    : 38687
+   |-TTL      : 64
+   |-Protocol : 6
+   |-Checksum : 1267
+
+Ethernet Header:
+   -->Destination Address : 30-E3-7A-10-DD-D5 
+   |-Source Address      : 48-BF-6B-DF-21-D8 
+   |-Protocol            : 8 
+
+Packet number 15
+Packet type: HTTP
+
+HTTP message
+.............3..........
+
+TCP Header:
+   |-Source Port      : 51173
+   |-Destination Port : 80
+   |-Sequence Number    : 2836641336
+   |-Acknowledge Number : 0
+   |-Header Length      : 11 DWORDS or 44 BYTES
+   |-Urgent Flag          : 0
+   |-Acknowledgement Flag : 0
+   |-Push Flag            : 0
+   |-Reset Flag           : 0
+   |-Synchronise Flag     : 1
+   |-Finish Flag          : 0
+   |-Window         : 65535
+   |-Checksum       : 43408
+   |-Urgent Pointer : 0
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 64  Bytes(Size of Packet)
+   |-Identification    : 17442
+   |-TTL      : 64
+   |-Protocol : 6
+   |-Checksum : 22512
+
+Ethernet Header:
+   -->Destination Address : 30-E3-7A-10-DD-D5 
+   |-Source Address      : 48-BF-6B-DF-21-D8 
+   |-Protocol            : 8 
+
+Packet number 16
+Packet type: TCP
+
+TCP Header:
+   |-Source Port      : 51168
+   |-Destination Port : 443
+   |-Sequence Number    : 3910365137
+   |-Acknowledge Number : 0
+   |-Header Length      : 11 DWORDS or 44 BYTES
+   |-Urgent Flag          : 0
+   |-Acknowledgement Flag : 0
+   |-Push Flag            : 0
+   |-Reset Flag           : 0
+   |-Synchronise Flag     : 1
+   |-Finish Flag          : 0
+   |-Window         : 65535
+   |-Checksum       : 44689
+   |-Urgent Pointer : 0
+
+
+IP Header:
+   |-IP Version        : 4
+   |-Type Of Service   : 0
+   |-IP Total Length   : 64  Bytes(Size of Packet)
+   |-Identification    : 7059
+   |-TTL      : 64
+   |-Protocol : 6
+   |-Checksum : 32895
+
+Ethernet Header:
+   -->Destination Address : 30-E3-7A-10-DD-D5 
+   |-Source Address      : 48-BF-6B-DF-21-D8 
+   |-Protocol            : 8 

@@ -1,0 +1,116 @@
+//open new browser
+CPU start time is : 482 
+^CCPU end time is : 13895
+TCP: 60
+UDP: 280
+ipv4: 340
+ipv6: 15
+ARP: 4
+HTTP: 13
+DNS: 200
+FTP: 0
+SMTP: 0
+Total: 361
+
+//google ran
+Starting...
+CPU start time is : 558 
+^CCPU end time is : 93594
+TCP: 742
+UDP: 124
+ipv4: 868
+ipv6: 2
+ARP: 874
+HTTP: 134
+DNS: 80
+FTP: 0
+SMTP: 0
+Total: 1744
+
+//coursera
+Starting...
+CPU start time is : 2752 
+^CCPU end time is : 242868
+TCP: 3721
+UDP: 418
+ipv4: 4139
+ipv6: 9
+ARP: 27
+HTTP: 651
+DNS: 352
+FTP: 0
+SMTP: 0
+Total: 4176
+
+Starting...
+CPU start time is : 5741 
+^CCPU end time is : 83616
+TCP: 451
+UDP: 647
+ipv4: 1114
+ipv6: 136
+ARP: 50
+HTTP: 67
+DNS: 416
+FTP: 0
+SMTP: 0
+Total: 1308
+
+//smtp
+CPU start time is : 570 
+^CCPU end time is : 98418
+TCP: 653
+UDP: 148
+ipv4: 803
+ipv6: 31
+ARP: 730
+HTTP: 70
+DNS: 64
+FTP: 0
+SMTP: 5
+Total: 1565
+
+//billboard
+Starting...
+CPU start time is : 2665 
+^CCPU end time is : 1108274
+TCP: 11400
+UDP: 1857
+ipv4: 13258
+ipv6: 98
+ARP: 524
+HTTP: 7541
+DNS: 1432
+FTP: 0
+SMTP: 0
+Total: 13882
+
+//nalanda
+Starting...
+CPU start time is : 2681 
+^CCPU end time is : 31393
+TCP: 554
+UDP: 36
+ipv4: 590
+ipv6: 0
+ARP: 6
+HTTP: 484
+DNS: 24
+FTP: 0
+SMTP: 0
+Total: 596
+
+//network manager restart
+CPU start time is : 481 
+^CCPU end time is : 65620
+TCP: 155
+UDP: 296
+ipv4: 469
+ipv6: 110
+ARP: 659
+HTTP: 0
+DNS: 132
+FTP: 0
+SMTP: 0
+
+
